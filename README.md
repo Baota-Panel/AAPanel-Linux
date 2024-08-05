@@ -1,5 +1,5 @@
 # AAPanel-Linux
-本仓库所有版本的更新包通过 node.aapanel.com 下载
+本仓库所有版本的更新包通过 `node.aapanel.com` 下载
 
 AAPanel 7.0.7正式版更新日志：[https://www.aapanel.com/forum/d/21243-aapanel-707-released-on-26-jul-2024](https://www.aapanel.com/forum/d/21243-aapanel-707-released-on-26-jul-2024)<br/>
 
