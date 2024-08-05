@@ -1,6 +1,6 @@
 # AAPanel-Linux
 AAPanel（宝塔面板国际版）安装脚本<br/><br/>
-AAPanel 7.0.6正式版更新日志：[https://www.aapanel.com/forum/d/20972-aapanel-706-released-on-02-jul-2024](https://www.aapanel.com/forum/d/20972-aapanel-706-released-on-02-jul-2024)<br/>
+AAPanel 7.0.7正式版更新日志：[https://www.aapanel.com/forum/d/21243-aapanel-707-released-on-26-jul-2024](https://www.aapanel.com/forum/d/21243-aapanel-707-released-on-26-jul-2024)<br/>
 
 本仓库仅保存AApanel v6.8.24及之后的更新包，获取地址均在：node.aapanel.com
 
