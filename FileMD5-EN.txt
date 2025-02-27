@@ -27,4 +27,4 @@ LinuxPanel_EN-7.0.11.zip : 6d1319834e8fbbc09e38db1f2c4846e5
 LinuxPanel_EN-7.0.12.zip : 2436aa5b2433e792ad3a25bd47a8a89e
 LinuxPanel_EN-7.0.13.zip : 8c00f012f1870a73311ee43a108d7340
 LinuxPanel_EN-7.0.15.zip : dc47eca2e9352ddb5eecd467ec3570d6
-LinuxPanel_EN-7.0.16.zip : de81914b2ae2a764ec951c185cd7597e
+LinuxPanel_EN-7.0.16.zip : be1ecff33680145dd3f551ed36a376f6
