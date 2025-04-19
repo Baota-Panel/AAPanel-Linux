@@ -1,7 +1,7 @@
 # AAPanel-Linux历史版本更新包存档
 本仓库所有版本的更新包通过 `node.aapanel.com` 下载
 
-AAPanel 7.0.16正式版更新日志：[https://www.aapanel.com/forum/d/23483-aapanel-7016-released-on-19-feb-2025](https://www.aapanel.com/forum/d/23483-aapanel-7016-released-on-19-feb-2025)<br/>
+AAPanel 7.0.18正式版更新日志：[https://www.aapanel.com/forum/d/23982-aapanel-7018-released-on-15-apr-2025](https://www.aapanel.com/forum/d/23982-aapanel-7018-released-on-15-apr-2025)<br/>
 
 本仓库仅保存AApanel v6.8.24及之后的更新包，获取地址均在：node.aapanel.com
 
